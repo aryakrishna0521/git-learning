@@ -1,0 +1,13 @@
+git config --list [list user configuration]
+
+git config --global user.name "username" [set username]
+
+git config --global user.email "useremail" [set user email]
+
+git init         [initialize git in cwf]
+
+git add -A        [adding all changes to staging area]
+
+git commit -m "commit message"
+
+git remote add remote_name path
