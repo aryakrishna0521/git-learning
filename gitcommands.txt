@@ -10,4 +10,9 @@ git add -A        [adding all changes to staging area]
 
 git commit -m "commit message"
 
-git remote add remote_name path
+git remote add remote_name path    [for adding remote repository] 
+eg:git remote add origin https://github.com/aryakrishna0521/html.git
+
+git push remote_name branch
+git branch   [to list branch]
+eg:git push origin master
